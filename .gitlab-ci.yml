@@ -18,10 +18,6 @@ molecule:
         tag: "latest"
       - image: "enterpriselinux"
         tag: "7"
-      - image: "debian-systemd"
-        tag: "latest"
-      - image: "fedora"
-        tag: "latest"
       - image: "ubuntu"
         tag: "latest"
 
