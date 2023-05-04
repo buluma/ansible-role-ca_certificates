@@ -5,4 +5,4 @@
 repository:
   description: Install common CA certificates on your system.
   homepage: https://buluma.github.io/
-  topics: cacertificates, ca, ssl, certificates, ansible, molecule, tox, playbook, hacktoberfest
+  topics: cacertificates, ca, ssl, certificates, ansible, molecule, tox, playbook
