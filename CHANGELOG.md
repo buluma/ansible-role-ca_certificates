@@ -12,13 +12,16 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.7...1.0.8)
 
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#8](https://github.com/buluma/ansible-role-ca_certificates/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.7](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.7) (2022-03-28)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.6...1.0.7)
 
 **Merged pull requests:**
 
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#8](https://github.com/buluma/ansible-role-ca_certificates/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#7](https://github.com/buluma/ansible-role-ca_certificates/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.6](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.6) (2022-03-23)
