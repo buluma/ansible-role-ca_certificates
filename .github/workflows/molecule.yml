@@ -36,8 +36,6 @@ jobs:
           - image: "enterpriselinux"
             tag: "8"
           - image: "debian"
-            tag: "latest"
-          - image: "debian"
             tag: "bookworm"
           - image: "fedora"
             tag: "36"
