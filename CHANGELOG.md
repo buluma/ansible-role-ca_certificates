@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ca_certificates/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.10...HEAD)
+
+**Closed issues:**
+
+- Update ansible-lint workflow [\#14](https://github.com/buluma/ansible-role-ca_certificates/issues/14)
+
 ## [1.0.10](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.10) (2022-12-24)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.9...1.0.10)
@@ -15,6 +23,7 @@
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#8](https://github.com/buluma/ansible-role-ca_certificates/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 2.4.0 to 3 [\#6](https://github.com/buluma/ansible-role-ca_certificates/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.7](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.7) (2022-03-28)
 
@@ -31,10 +40,6 @@
 ## [1.0.5](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.5) (2022-03-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.4...1.0.5)
-
-**Merged pull requests:**
-
-- Bump actions/checkout from 2.4.0 to 3 [\#6](https://github.com/buluma/ansible-role-ca_certificates/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.4](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.4) (2022-02-12)
 
