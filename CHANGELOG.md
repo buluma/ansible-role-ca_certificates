@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-ca_certificates/tree/HEAD)
+## [2.0.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.0.0) (2023-05-05)
 
-[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.10...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/1.0.10...2.0.0)
 
 **Closed issues:**
 
