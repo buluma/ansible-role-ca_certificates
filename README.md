@@ -1,4 +1,4 @@
-# [ca_certificates](#ca_certificates)
+# [Ansible role ca_certificates](#ca_certificates)
 
 Install common CA certificates on your system.
 
