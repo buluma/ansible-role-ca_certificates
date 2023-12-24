@@ -1,10 +1,10 @@
-# [Ansible role ca_certificates](#ca_certificates)
+# Ansible role [ca_certificates](https://galaxy.ansible.com/ui/standalone/roles/buluma/ca_certificates/documentation)
 
 Install common CA certificates on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-ca_certificates/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-ca_certificates/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-ca_certificates/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-ca_certificates/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ca_certificates.svg)](https://github.com/buluma/ansible-role-ca_certificates/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/ca_certificates)](https://galaxy.ansible.com/ui/standalone/roles/buluma/ca_certificates/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -85,13 +85,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-ca_certificates/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-ca_certificates/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
