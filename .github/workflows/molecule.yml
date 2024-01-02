@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
       - name: ansible-lint
         uses: ansible-community/ansible-lint-action@main
-  molecule_test:
+  test:
     needs:
       - lint
     runs-on: ubuntu-20.04
@@ -67,8 +67,6 @@ jobs:
             tag: "focal"
           - image: "docker-ubuntu-systemd"
             tag: "bionic"
-          - image: "docker-ubuntu-systemd"
-            tag: "lunar"
     steps:
       - name: Checkout Role
         uses: actions/checkout@v4
