@@ -1,12 +1,16 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-ca_certificates/tree/HEAD)
+## [2.1.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.1.0) (2024-01-03)
 
-[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.0.2...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.0.2...2.1.0)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#19](https://github.com/buluma/ansible-role-ca_certificates/issues/19)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#20](https://github.com/buluma/ansible-role-ca_certificates/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.0.2](https://github.com/buluma/ansible-role-ca_certificates/tree/2.0.2) (2023-12-27)
 
