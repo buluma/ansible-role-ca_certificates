@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ca_certificates/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#22](https://github.com/buluma/ansible-role-ca_certificates/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [2.2.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.2.0) (2024-01-09)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.1.0...2.2.0)
