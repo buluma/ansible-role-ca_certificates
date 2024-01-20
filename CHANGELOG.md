@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.2.0) (2024-01-09)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.1.0...2.2.0)
+
 ## [2.1.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.1.0) (2024-01-03)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.0.2...2.1.0)
