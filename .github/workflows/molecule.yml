@@ -91,7 +91,7 @@ jobs:
           image: ${{ matrix.config.image }}
           tag: ${{ matrix.config.tag }}
       - name: Running Role Test
-        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} {{ github_namespace }} ${{ github.event.repository.name }}
+        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} ${{ github_namespace }} ${{ github.event.repository.name }}
 
   dependabot:
     needs:
