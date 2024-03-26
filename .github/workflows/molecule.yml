@@ -49,8 +49,6 @@ jobs:
           - image: "docker-molecule-images"
             tag: "alpine-openrc"
           - image: "docker-molecule-images"
-            tag: "amazonlinux1"
-          - image: "docker-molecule-images"
             tag: "amazonlinux2023"
           - image: "enterpriselinux"
             tag: "8"
