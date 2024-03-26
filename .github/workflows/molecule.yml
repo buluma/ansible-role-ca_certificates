@@ -126,4 +126,4 @@ jobs:
     steps:
       - uses: "actions/checkout@master"
       - name: Test Role
-        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} buluma.${{ role_name }}
+        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} buluma.{{ role_name }}
