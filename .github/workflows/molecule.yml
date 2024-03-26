@@ -49,9 +49,9 @@ jobs:
           - image: "docker-molecule-images"
             tag: "alpine-openrc"
           - image: "docker-molecule-images"
-            tag: "amazonlinux2023"
-          - image: "docker-molecule-images"
             tag: "amazonlinux1"
+          - image: "docker-molecule-images"
+            tag: "amazonlinux2023"
           - image: "enterpriselinux"
             tag: "8"
           - image: "enterpriselinux"
@@ -126,4 +126,4 @@ jobs:
     steps:
       - uses: "actions/checkout@master"
       - name: Test Role
-        run: ansible-galaxy role import buluma.ca_certificates
+        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} buluma.${{ role_name }}

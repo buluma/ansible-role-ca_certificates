@@ -13,7 +13,8 @@ galaxy_info:
         - all
     - name: Amazon
       versions:
-        - all
+        - amazonlinux1
+        - Candidate
     - name: EL
       versions:
         - "8"
