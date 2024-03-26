@@ -90,6 +90,8 @@ jobs:
         with:
           image: ${{ matrix.config.image }}
           tag: ${{ matrix.config.tag }}
+      - name: Running Role Test
+        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} {{ github_namespace }} ${{ github.event.repository.name }}
 
   dependabot:
     needs:
@@ -114,12 +116,12 @@ jobs:
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  test_role:
+  import_role:
     needs:
       - lint
     runs-on: ubuntu-20.04
 
     steps:
       - uses: "actions/checkout@master"
-      - name: Test Role
-        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} buluma ${{ github.event.repository.name }}
+      - name: Test Role Import
+        run: ansible-galaxy role import --api-key ${{ secrets.galaxy_api_key }} {{ github_namespace }} ${{ github.event.repository.name }}
