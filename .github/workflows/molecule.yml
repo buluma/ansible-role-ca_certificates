@@ -47,7 +47,7 @@ jobs:
       matrix:
         config:
           - image: "alpine"
-            tag: "all"
+            tag: "latest"
           - image: "enterpriselinux"
             tag: "8"
           - image: "enterpriselinux"
