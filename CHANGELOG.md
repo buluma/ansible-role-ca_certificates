@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ca_certificates/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#18](https://github.com/buluma/ansible-role-ca_certificates/issues/18)
+- rebuild action [\#17](https://github.com/buluma/ansible-role-ca_certificates/issues/17)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-ca_certificates/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.3.0...24.3.31)
