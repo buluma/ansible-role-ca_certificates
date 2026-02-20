@@ -9,6 +9,10 @@
 - Update action [\#18](https://github.com/buluma/ansible-role-ca_certificates/issues/18)
 - rebuild action [\#17](https://github.com/buluma/ansible-role-ca_certificates/issues/17)
 
+**Merged pull requests:**
+
+- Bump actions/checkout from 4 to 6 [\#29](https://github.com/buluma/ansible-role-ca_certificates/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-ca_certificates/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.3.0...24.3.31)
