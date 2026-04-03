@@ -11,6 +11,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#32](https://github.com/buluma/ansible-role-ca_certificates/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 4 to 6 [\#29](https://github.com/buluma/ansible-role-ca_certificates/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-ca_certificates/tree/24.3.31) (2024-03-29)
