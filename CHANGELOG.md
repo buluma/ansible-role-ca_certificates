@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.6.2](https://github.com/buluma/ansible-role-ca_certificates/tree/26.6.2) (2026-07-21)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/26.6.1...26.6.2)
+
 ## [26.6.1](https://github.com/buluma/ansible-role-ca_certificates/tree/26.6.1) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/26.6.0...26.6.1)
@@ -31,10 +35,6 @@
 ## [2.3.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.3.0) (2024-01-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ca_certificates/compare/2.2.0...2.3.0)
-
-**Merged pull requests:**
-
-- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#22](https://github.com/buluma/ansible-role-ca_certificates/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.2.0](https://github.com/buluma/ansible-role-ca_certificates/tree/2.2.0) (2024-01-09)
 
@@ -87,6 +87,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#22](https://github.com/buluma/ansible-role-ca_certificates/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#8](https://github.com/buluma/ansible-role-ca_certificates/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.7](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.7) (2022-03-28)
