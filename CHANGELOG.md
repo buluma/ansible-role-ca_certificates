@@ -55,7 +55,6 @@
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#20](https://github.com/buluma/ansible-role-ca_certificates/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump alstr/todo-to-issue-action from 2.3 to 4.6 [\#3](https://github.com/buluma/ansible-role-ca_certificates/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.0.2](https://github.com/buluma/ansible-role-ca_certificates/tree/2.0.2) (2023-12-27)
 
@@ -130,6 +129,7 @@
 
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#5](https://github.com/buluma/ansible-role-ca_certificates/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 1 to 2.4.0 [\#4](https://github.com/buluma/ansible-role-ca_certificates/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump alstr/todo-to-issue-action from 2.3 to 4.6 [\#3](https://github.com/buluma/ansible-role-ca_certificates/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.1](https://github.com/buluma/ansible-role-ca_certificates/tree/1.0.1) (2022-02-05)
 
